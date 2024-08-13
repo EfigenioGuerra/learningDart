@@ -76,4 +76,10 @@ void metodoColecao() {
 
   hb20Sedan.historiaMarca(abreviacao: "H", criador: "Chung Ju-yung");// 2 required
   hb20Sedan.historiaMarca(abreviacao: "H");// 1 required 1 ?
+
+  Map<int, List<Veiculos>> carrosNovos = {
+    2024: [onix, polo, hb20, strada]
+  };
+
+  carrosNovos[2024]?.add(hb20Sedan);//se encontrar chave 2024, adiciona hb20Sedan
 }
