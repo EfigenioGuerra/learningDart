@@ -9,7 +9,7 @@
     },
     {
       "name": "_macros",
-      "rootUri": "file:///C:/Users/Unicesumar/Desktop/dart-sdk/pkg/_macros",
+      "rootUri": "file:///C:/Users/Unicesumar/Desktop/dartsdk-windows-x64-release/dart-sdk/pkg/_macros",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -308,8 +308,8 @@
       "languageVersion": "3.6"
     }
   ],
-  "generated": "2024-08-13T00:21:46.764539Z",
+  "generated": "2024-08-13T22:55:28.522803Z",
   "generator": "pub",
-  "generatorVersion": "3.6.0-122.0.dev",
+  "generatorVersion": "3.6.0-139.0.dev",
   "pubCache": "file:///C:/Users/Unicesumar/AppData/Local/Pub/Cache"
 }
